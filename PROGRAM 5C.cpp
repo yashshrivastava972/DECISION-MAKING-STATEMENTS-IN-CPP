@@ -31,13 +31,15 @@ int main() {
     return 0;
 }
 
-// OUTPUT:
+// OUTPUTS:
 
+// (i):
 // ENTER THE THREE NUMBERS: 1
 // 2
 // 3
 // 3 IS THE LARAGEST NUMBER.
 
+// (ii):
 // ENTER THE THREE NUMBERS: -4
 // 0
 // 1
