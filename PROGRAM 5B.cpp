@@ -27,10 +27,12 @@ int main() {
     return 0;
 }
  
-// OUTPUT:
+// OUTPUTS:
 
+// (i):
 // ENTER THE CHARACTER: e
 // THE CHARACTER IS A VOWEL
 
+// (ii):
 // ENTER THE CHARACTER: Y
 // THE CHARACTER IS A CONSONANT
