@@ -135,18 +135,38 @@ Conclusion: This calculator program demonstrates:
 It is a great introductory program for beginners to understand how arithmetic operations and control structures work in C++.
 
 
-                                                                   PROGRAM 5D:
+                                                                   PROGRAM 5E:
 
-Aim: C++ Program Calculator using Switch-Case and break statement.
+Aim: C++ Program Calculator using Switch-Case and break statement (Sport Selector using Switch-Case in C++).
 
 Tool: VS CODE.
 
-Theory: 
+Theory: This C++ program demonstrates how to use the switch statement to handle multiple predefined options. It allows a user to choose a sport from a list of 5 options by entering a corresponding number. Based on the user’s input (choice), a message is printed related to the selected sport.
 
+Key Concepts Used:
+1. switch-case decision-making construct
+2. Console input/output using cin and cout
+3. default case for handling invalid inputs
 
+This approach is useful in menu-driven programs, commonly seen in interactive applications.
 
+Algorithm:
+1. Start
+2. Declare an integer variable choice
+3. Display the list of 5 sports with corresponding numbers (1 to 5)
+4. Prompt the user to input their sport choice
+5. Read the value into choice
+6. Use a switch(choice) statement to:
+   If choice == 1, display Cricket message
+   If choice == 2, display Football message
+   If choice == 3, display Badminton message
+   If choice == 4, display Chess message
+   If choice == 5, display Tennis message
+   Else (default), display an error message for invalid input
+7. End.
 
-
-
-
-
+Conclusion:
+1. This program effectively demonstrates how to use the switch-case structure to handle fixed, discrete choices.
+2. It provides a user-friendly interface and handles unexpected input using the default case.
+3. Such programs are useful in building menu-based systems or interactive applications like quizzes, games, or selection menus.
+4. The implementation is simple and suitable for beginners in C++ learning about control flow and decision making.
