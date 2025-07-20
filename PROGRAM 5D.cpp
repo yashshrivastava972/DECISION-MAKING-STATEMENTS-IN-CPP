@@ -46,13 +46,15 @@ int main() {
 }
 
 
-// OUTPUT:
+// OUTPUTS:
 
+// (i):
 // ENTER TWO OPERANDS: 2
 // 3
 // ENTER AN OPERATOR (+, -, *, /): +
 // RESULT = 5
 
+// (ii):
 // ENTER TWO OPERANDS: 2
 // 3
 // ENTER AN OPERATOR (+, -, *, /): $
